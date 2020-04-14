@@ -31,6 +31,7 @@ public class MybatisPlusUtils {
     /***
      * 防止误删全表
      * @return
+	 * ssssss
      */
     @Bean
     public SqlExplainInterceptor sqlExplainInterceptor(){
